@@ -103,5 +103,4 @@ Profile Card:
 
 
     src="https://mulearn.org/embed/rank/nikkitaannageorge@mulearn"
-    width="400px">
 </img>
