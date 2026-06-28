@@ -4,9 +4,9 @@ Squad Domain: Coder | FIFA Nation: Portugal
 
 About Me
 
-«I am Nikkita Anna George, currently pursuing a B.Tech in Computer Science and Engineering. I am passionate about technology, software development, and building impactful digital solutions. My programming journey started with Python and later expanded to C, giving me a strong foundation in programming concepts. I am currently learning Full Stack Development and enjoy creating responsive and user-friendly web applications.»
+I am Nikkita Anna George, currently pursuing a B.Tech in Computer Science and Engineering. I am passionate about technology, software development, and building impactful digital solutions. My programming journey started with Python and later expanded to C, giving me a strong foundation in programming concepts. I am currently learning Full Stack Development and enjoy creating responsive and user-friendly web applications.»
 
-«Along with academics, I actively participate in technical communities and learning programs. I am a Marketing Officer at IEDC Bootcamp, a GirlScript Summer of Code 2026 (GSSoC'26) Contributor, and have successfully completed a μLearn Web Development Internship, where I developed a functional e-commerce website. I love exploring new technologies, collaborating with developers, and continuously improving my technical and problem-solving skills. Through μFIFA, I hope to learn, contribute to meaningful projects, and grow as a developer while building a strong portfolio.»
+«Along with academics, I actively participate in technical communities and learning programs. I am a Marketing Officer at IEDC Bootcamp, a GirlScript Summer of Code 2026 (GSSoC'26) Contributor, and have successfully completed a μLearn Web Development Internship, where I developed a functional e-commerce website. I love exploring new technologies, collaborating with developers, and continuously improving my technical and problem-solving skills. Through μFIFA, I hope to learn, contribute to meaningful projects, and grow as a developer while building a strong portfolio.
 
 ---
 
@@ -102,6 +102,6 @@ Career Plan:
 Profile Card:
 
 
-    src="https://mulearn.org/embed/rank/YOUR-MUID"
+    src="https://mulearn.org/embed/526/nikkitaannageorge@mulearn"
     width="400px">
 </img>
